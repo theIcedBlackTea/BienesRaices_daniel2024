@@ -13,7 +13,10 @@ const categorias = [
     },
     {
         nombre: 'Cabaña'
-    }
+    },
+    {
+        nombre: 'Establecimiento'
+    }
 ]
 
 export default categorias
